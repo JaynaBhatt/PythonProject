@@ -21,7 +21,7 @@
 							"value": "@pipeline().parameters.filename",
 							"type": "Expression"
 						},
-						"output": {
+						"input": {
 							"value": "@pipeline().parameters.input",
 							"type": "Expression"
 						}
