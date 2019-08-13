@@ -31,6 +31,10 @@
 						"input": {
 							"value": "@pipeline().parameters.input",
 							"type": "Expression"
+						},
+						"output": {
+							"value": "@pipeline().parameters.output",
+							"type": "Expression"
 						}
 					}
 				},
@@ -110,6 +114,10 @@
 			"input": {
 				"type": "string",
 				"defaultValue": "/trainingcontainer/input"
+			},
+			"output": {
+				"type": "string",
+				"defaultValue": "/output"
 			}
 		},
 		"annotations": []
