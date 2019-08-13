@@ -6,8 +6,8 @@
 		"type": "AzureDatabricks",
 		"typeProperties": {
 			"domain": "https://eastus2.azuredatabricks.net",
-			"existingClusterId": "0812-114928-coup772",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkFaVVJFVFJBSU5EQVRBRkFDVE9SWV8xNzFiNGQwYy1mY2E4LTQ3OWEtODA4OS01MmI4MGE4MDNlM2QiDQp9"
+			"existingClusterId": "0813-062052-bogy498",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkFaVVJFVFJBSU5JTkdEQVRBRkFDVE9SWUpCXzNhN2FjN2Y4LTZkM2UtNGU5ZC1iYjFjLTdhNzBmMmJiM2QzZiINCn0="
 		}
 	}
 }
